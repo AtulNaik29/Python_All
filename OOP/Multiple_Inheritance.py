@@ -53,3 +53,4 @@ class D(B,A,C):
 
 obj_d = D()
 print(obj_d.call())
+print(obj_d.call())
